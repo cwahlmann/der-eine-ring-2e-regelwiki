@@ -1,0 +1,78 @@
+## Charakterbogen
+
+image::images/Charakterblatt_Legende.png[]
+
+*(1) Name:* _(30, 32ff)_ je nach Kultur
+
+*(2) Kultur:* _(32ff)_ Einstiegsalter, Kulturelle Gabe, kulturelle Besonderheiten, Lebensstandard, Attribute, abgeleitete Werte (Ausdauer, Hoffnung, Parade), Fertigkeiten (1 bevorzugte), Kampffähigkeiten, einzigartige Merkmale
+
+*(3) Kulturelle Gabe:* _(32ff)_ hat regeltechnische Auswirkungen, z.B. "Standhaft": alle Würfe auf Tapferkeit sind bevorzugt
+
+*(4) Berufung:* _(44ff)_ bevorzugte Fertigkeiten, weiteres einzigartiges Merkmal, Schattenpfad
+
+*(5) Alter:* _(32ff)_ zu Beginn siehe Einstiegsalter der Kultur
+
+*(6) Gönner:* _(52, 212ff)_ erster Gönner wird zu Beginn mit der Gruppe ausgehandelt
+
+*(7) Schattenpfad:* _(136ff, 140)_ Es gibt 4 Stufen. Wer einen Wahnsinnsanfall erleidet, um den Zustand tiefe Verzweiflung abzubauen
+(Schattenpunkte >= max. Hoffnung), steigt eine Stufe auf und erhält einen entsprechenden Makel.
+
+*(8) Lebensstandard:* _(50, 72ff)_ bestimmt die Reiseausstattung (Anzahl nützlicher Gegenstände),
+die Qualität der Rüstung und des Pack-/Reittiers
+
+*(9) Schätze:* _(72ff, 158ff)_ Schätze werden in Schatzpunkten gemessen, und bestimmen den Lebensstandard
+
+*(10) Einzigartige Merkmale:* _(67ff)_ Charaktermerkmale, die das Rollenspiel bestimmen, keine direkten regeltechnischen Auswirkungen
+
+*(11) Makel:* _(140ff)_ durch den Schattenpfad erhaltene Makel
+
+*(12) Attributs-Wert:* _(32ff)_ wird durch die Kultur bestimmt
+
+*(13) Attributs-Schwierigkeitsgrad:* _(29)_ SG = 20-Wert; gegen diesen wird bei Attributs-(und Kampf)proben gewürfelt.
+
+*(14) max. Ausdauer:* _(32ff)_ wird je nach Kultur errechnet
+
+*(15) max. Hoffnung:* _(32ff)_ wird je nach Kultur errechnet
+
+*(16) Parade:* _(32ff, 98)_ der Schwierigkeitsgrad, gegen den Gegner bei einem Angriff würfeln müssen, wird je nach Kultur errechnet
+
+*(17) Abenteuerpunkte:* _(46, 56f, 119)_ Gefährtenphase: Verbesserung von Weisheit, Tapferkeit oder Kampffähigkeiten, oder für Erben sammeln
+
+*(18) Fertigkeitspunkte:* _(46, 56f, 119f)_ Gefährtenphase: Verbesserung von Fertigkeiten
+
+*(19) Gemeinschaftswert, Gefährtenwert:* _(52, 54f, 71)_ gemeinsame Punkte der Gemeinschaft (pro Spielsitzung); Abenteuerphase: Hoffnung zurückerlangen, Effekte durch Gönner auslösen
+
+*(20) derzeitige Ausdauer:* _(48, 69f, 93f, 100, 134)_ aktuelle Ausdauer; sinkt z.B. durch Treffer im Kampf; wenn *Belastung* + *Erschöpfung* > aktuelle Ausdauer, dann ist der Held *erschöpft*
+
+*(21) derzeitige Belastung:* _(48, 100)_ Waffen, Rüstung, Schilde
+
+*(22) derzeitige Erschöpfung:* _(69f)_ durch Reisen
+
+*(23) derzeitige Hoffnung:* _(71, 119f, 136ff)_ nutzen für +1 W6 auf Probe (+2 W6, wenn inspiriert) oder kulturelle Vorteile; wenn *Schatten* + *Schattenmal* > derzeitige Hoffnung, dann *verzweifelt*;
+wenn *Schatten* > *max. Hoffnung*, dann tiefe Verzweiflung
+
+*(24) Schatten:* _(120ff, 136ff)_ die Auswirkungen des Schattens / geistige Gesundheit; "Willen stärken": Wert auf 0 und +1 permanenter Schatten (*Schattenmal*); Gefährtenphase: "Geistige Erholung"
+
+*(25) Schattenmal:* _(120ff, 136ff)_ permanenter Schatten, kann bei Julfest abgebaut werden
+
+*(26) Erschöpft:* _(69f, 98f, 134)_: Belastung + Erschöpfung > derzeitige Ausdauer +
+*Verzweifelt:* _(71, 119f, 136ff)_ Schatten + Schattenmal > derzeitige Hoffnung +
+*Verwundet:* _(99ff, 133f)_ Held hat bereits eine Verletzung / Wunde erhalten
+
+*(27) Verletzung / Wunde:* _(99ff, 133f)_ Beschreibung der Verletzung
+
+*(28) bevorzugtes Attribut:* _(20,60)_ falls angekreuzt, *bevorzugte Probe* (2 HW -> besseres Ergebnis)
+
+*(29) Attributswert:* _(29ff, 60ff)_ bestimmt Anzahl W6 für eine Probe
+
+*(30) Kampfattribute:* _(65ff, 98)_ Wert bestimmt Anzahl W6 für einen Angriff
+
+*(31) Tapferkeit + Belohnungen:* _(51, 78ff, 119)_ pro neuer Punkt Tapferkeit eine neue Belohnung
+
+*(32) Weisheit + Vorteile:* _(51, 80ff, 119)_ pro neuer Punkt Weisheit ein neuer Vorteil
+
+*(33) Kriegswerkzeug:* _(48, 73ff, 100)_ mitgeführte Waffen
+
+*(34) Rüstung, Helm, Schild:* _(48, 75, 100)_ bestimmt den gesamten Schutz / Paradebonus
+
+*(35) Reiseausstattung:* _(49f, 100, 123)_ nützliche Gegenstände, die im Spiel Auswirkung haben können

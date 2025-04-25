@@ -1,0 +1,175 @@
+## Abenteuerphasen
+
+### Kampf _(93ff)_
+
+Auftaktsalven (ggf. Überraschungsangriff) und Nahkampfrunden
+
+.Phasen Nahkampfrunde (jeweils alle Mitwirkenden)
+[cols="1,3"]
+|===
+h| 1. Haltung | *Nahkampf* (Offensiv, Bereitschaft, Defensiv), *Fernkampf* (Hinten)
+h| 2. Gefecht | wer in Überzahl ist, wählt Gegner
+h| 3a. 1 Hauptaktion | Angriff, Kampfaufgabe, andere
+h| 3b. 1 Nebenaktion | vor oder nach Hauptaktion, z.B. vorrücken, zurückziehen, Ausschau halten, Waffe ziehen, Helm/Schild/Waffe fallen lassen
+|===
+
+.Kampfaufgaben
+[cols="1,3"]
+|===
+h| Einschüchtern (Offensiv) | Wurf auf Beeindrucken -> Gegner bei nächstem Angriff erschöpft +
+`0 (T)` = Gegner mit Macht 1 +
+`1 (T)` = auch Gegner mit Macht 2 +
+`2+ (T)` = alle Gegner
+h| Anspornen (Bereitschaft) a| Wurf auf Ermutigen -> nächster Angriff `+ 1 W6` +
+`keine (T)` = alle offensiven Helden +
+`1 (T)` = auch Helden in Bereitschaft +
+`2+ (T)` = auch Helden in Nahkampf
+h| Beschützen (Defensiv) a| Wurf auf Kriegskunst -> nächster Angriff des Gegners `-1 W6` und `-1 W6` pro `(T)`
+h| Schuss vorbereiten (Hinten) a| Wurf auf Untersuchen -> nächster Fernangriff `+1 W6` und `+1 W6` pro  `(T)`
+|===
+
+### Beratung _(104ff)_
+
+.Gesellschaftliche Begegnungen
+[cols="1,3"]
+|===
+h| Widerstand festlegen | *Widerstand* je nach Ersuchen (vernünftig -> 3, kühn -> 6, unerhört -> 9)
+   = *mind. Anzahl gelungener Proben*
+h| Vorstellung a|
+. Wortführer wählen
+. Wurf auf _Beeindrucken_, _Auftreten_ oder _Rätseln_
+. bei Erfolg: *Zeitlimit* -> Widerstand + Anzahl `(T)` = *Anzahl Versuche*
+h| Interaktion a|
+* Wurf auf _Ermutigen_, _Verständnis_, _Überreden_, _Rätseln_, _Musizieren_
+* Modifikation je Stimmung der Zuhörer (abgeneigt = `-1 W6`, aufgeschlossen `+/- 0`, freundlich `+1 W6`)
+h| Ergebnis a|
+*Erfolge >= Widerstand* -> Beratung für die Helden erfolgreich +
+*Erfolge < Widerstand* -> nicht erfolgreich oder erfolgreich "mit Haken" +
+*keine Erfolge* -> Verhängnis (Feindseligkeit, Einsperren)
+|===
+
+## Reisen _(108ff)_
+
+.Reiseablauf
+[cols="1,3"]
+|===
+h| Reiseaufgaben der Reisegemeinschaft | *ein* Anführer, Jäger, Späher, Kundschafter
+h| Reiseweg | *Helden:* mit Spielerkarte Weg festlegen +
+*Meister* mit Hex-Karte bereiste Felder festlegen +
+*gefährliche Stellen* mit Schwierigkeitsgrad `1..n` markieren
+h| Marschproben a| *Anführer:* Probe auf Reisen -> Ereignis nach Anzahl Hexfelder +
+_(gefährliche Stellen müssen immer abgehandelt werden, 1 Ereignis pro Schwierigkeitsgrad)_ +
+*Ziel für Ereignis auswählen:* Spielleiter wirft `W6` +
+ -> `1-2`: Kundschafter (Erkunden) +
+ -> `3-4`: Späher (Wahrnehmung) +
+ -> `5-6`: Jäger (Jagen) +
+*Ereignis bestimmen:*  Spielleiter wirft `HW` +
+ (Grenzland -> `bevorzugt`, Dunkles Land -> `benachteiligt`) +
+*Ereignis abwickeln:* 1 Held mit enstprechender Rolle +
+1 Helden mit gleicher Rolle darf `unterstützen` +
+Strasse -> `+ 1 W6`, Schwieriges Gelände -> `- 1 W6`
+
+h|Reise beenden +
+(je Held)| Durch Ereignisse *erlittene Erschöpfung* minus Vitalität des Reittiers, +
+*Reisen-Probe:* bei Erfolg -> Erschöpfung -1 und -1 je `(T)`
+h| Reisedauer | 1 Tag pro Hexfeld + 1 Tag pro schwieriges Gelände +
+*Gewaltmarsch:* 1 Tag pro 2 Hexfelder, 1 Erschöpfung pro Tag
+|===
+
+.Reiseprobe
+[cols="1,3"]
+|===
+| Ergebnis | nächstes Ereignis
+
+| Fehlschlag | 2 Hexfelder (Frühling, Sommer) +
+1 Hexfeld (Herbst, Winter)
+| Erfolg a| 3 Hexfelder + Anzahl `(T)`
+|===
+
+.Ergebnis von Ereignisproben
+[cols="1,2,3,1"]
+|===
+a| `HW` | Ereignis | Folgen | Erschöpfung
+
+a| `<o>` | Schreckliches Unglück | bei Misserfolg -> Wunde | 3
+| 1 | Verzweiflung | bei Misserfolg -> alle Helden +1 Schatten (Schrecken) | 2
+| 2-3 | Schlechte Entscheidungen | bei Misserfolg -> Ziel +1 Schatten (Schrecken) | 2
+| 4-7 | Missgeschick | bei Misserfolg -> Reisedauer +1 Tag, Ziel +1 Erschöpfung | 2
+| 8-9 | Abkürzung | bei Erfolg -> bei Erfolg -> Reisedauer -1 Tag | 1
+| 10 | Zufallsbegegnung | bei Erfolg -> kein Held Erschöpfung, Begegnung | 1
+a| `(G)` | Verzweiflung | bei Erfolg -> alle Helden +1 Hoffnung | -
+|===
+
+## Gefährtenphase _(118f)_
+
+.Vorbereitung
+[cols="1,2"]
+|===
+h| Dauer festlegen | 1 Woche bis 1 Jahreszeit
+h| Örtlichkeit wählen | jeder bekannte Ort (meist Zuflucht); Reise wird nicht ausgespielt
+|===
+
+### Verbesserungen durchführen _(119)_
+
+.Einsatz von Abenteuer- und Fertigkeitspunkten
+[cols="1,2"]
+|===
+h| Fertigkeitspunkte | Fertigkeiten verbessern (max. 1 Rang / Fertigkeit)
+h| Abenteuerpunkte | 1 Rang in Weisheit oder Tapferkeit, Kampffertigkeiten (max. 1 Rang / Fertigkeit)
+h| neuer Rang Tapferkeit | 1 Belohnung _(78ff)_
+h| neuer Rang Weisheit | 1 Vorteil _(80ff)_
+|===
+
+.Erfahrungspunktekosten
+|===
+| neuer Fertigkeitsrang | neuer Tapferkeits- / Weisheitsrang | Abenteuer-/Fertigkeitspunkte
+
+a| `x` | - | 4
+a| `xx` | 2 | 8
+a| `xxx` | 3 | 12
+a| `xxxx` | 4 | 20
+a| `xxxxx` | 5 | 26
+a| `xxxxxx` | 6 | 30
+|===
+
+### Julfest _(120)_
+
+.Julfest
+[cols="1,3"]
+|===
+h| Zeit | Winterzeit (ca. jede 3. Gefährtenphase), 3 Monate
+h| Ort | Rückkehr jedes Helden in die Heimat
+h| Auswirkungen | `Hoffnungspunkte` komplett auffüllen +
+`Fertigkeitspunkte` um `Verstand`-Wert erhöhen
+|===
+
+### Unternehmungen auswählen _(120ff)_
+
+.Unternehmungen auswählen
+|===
+| normale Gefährtenphase | Julfest
+
+| Gemeinschaft wählt 1 gemeinsame Unternehmung
+| jeder Spieler wählt 1 Unternehmung
+2+| jeder Spieler wählt 1 _"freie"_ Unternehmung (siehe jeweilige Berufung)
+|===
+
+.Unternehmungen
+[cols="3,2,4"]
+|===
+h| Gemeinschaft stärken | | Gefährtenwert +1 bis nächste Gefährtenphase
+h| Lied schreiben | | Neues Lied dem Liederverzeichnis hinzufügen:
+Ballade (Beratung), Siegeslied (Kampf), Wanderlied (Reise) _(121, 63)_
+h| Geschichte erzählen | Julfest | einzigartiges Merkmal gegen ein anderes (aus Geschichte) auswählen
+h| Erben einsetzen | Julfest| jeweils *n* Schatzpunkte und Abenteuerpukte (max. 5) -> Rücklage **+n** _(56)_
+h| Gönner treffen | _"frei"_ für Bote | muss am selben Ort sein _(52, 212ff)_
+h| Gerüchte erfahren | _"frei"_ für Hüter | Spielleiter erzählt ein Gerücht
+h| Landkarte studieren | _"frei"_ für Gelehrter | Ereignisse abwickeln +1 (Reise) bis nächste Gefährtenphase
+h| Magische Gegenstände untersuchen | _"frei"_ für Schatzsucher | Eigenschaften aller sagenhaften Artefakte und Wundersamen Gegenständer der Gemeinschaft
+h| Schattenmale heilen | Julfest | 5 Abenteuerpunkte: -1 Schattenmal _(137)_
+|===
+
+### Nützliche Gegenstände tauschen
+
+beliebig im Rahmen max. erlaubte Anzahl (Lebensstandard)
+

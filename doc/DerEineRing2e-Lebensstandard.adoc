@@ -1,0 +1,20 @@
+## Lebensstandard, nützliche Gegenstände
+
+.Schätze, Lebensstandard und nützliche Gegenstände
+[cols="2,2,1,1"]
+|===
+| Start für Kultur... | Lebensstandard | Schatzpunkte | nützliche Gegenstände
+
+| - | Arm | - | -
+| Elben, Waldläufer | Bescheiden | 0 | 1
+| Hobbits,
+Menschen aus Bree | Gewöhnlich | 30 | 2
+| Bardinger, Zwerge | Wohlhabend | 90 | 3
+| - | Reich | 180 | 4
+| - | Sehr reich | 300+ | 4
+|===
+
+*Nützliche Gegenstände* werden zusammen einer Fertigkeit auf Charakterbogen eingetragen
+-> wenn passend, `1 W6` auf Probe
+
+*1 Schatzpunkt* = 1 Belastungspunkt - *Reittier:* Traglast max. 10 Schatzpunkte

@@ -1,0 +1,81 @@
+## Proben
+
+`<o>` Saurons Auge /
+`(G)` Gandalf-Rune /
+`(T)` Tau-Symbol /
+`SG` Schwierigkeitsgrad /
+`HW` Heldenwürfel /
+`W6` Erfolgswürfel
+
+.Probe + Modifikation _(17ff)_
+[cols="1,3"]
+|===
+| Probe a| `HW` + `n W6` gegen `SG`
+
+| `bevorzugt` a| `2 HW` -> besseres Ergebnis
+| `benachteiligt` a| `2 HW` -> schlechteres Ergebnis
+| `Hoffnungsbonus` | 1 Hoffnungspunkt ->  `+ 1 W6` (inspiriert = `+ 2 W6`)
+| `Unterstützung` durch anderen Helden a| 1 Hoffnungspunkt -> `+ 1 W6`
+| `vergleichende Probe` a| Erfolg und Anzahl `(T)`
+|===
+
+.Ergebnis einer Probe _(17ff)_
+[cols="1,1,2,2"]
+|===
+a| `HW` Helden + NSC a| `HW` Diener des Schatten a| `W6` | Ergebnis
+
+| 1-10
+| 1-10
+a| Augenzahl +
+(Erschöpft: 1,2,3 = 0) +
+Anzahl `(T)` = Erfolgsgrad
+a| Erfolg bei Augenzahl `HW` + `W6` >= `SG`
+
+a| `(G)`
+a| `<o>`
+a| Anzahl `(T)` = Erfolgsgrad
+| Erfolg
+
+a| `<o>` = 0
+a| `(G)` = 0
+| Augenzahl +
+(Erschöpft: 1,2,3 = 0) +
+Anzahl `(T)` = Erfolgsgrad
+| Erfolg bei Augenzahl `W6` >= `SG` (Verzweifelt = misslungen)
+|===
+
+
+.magische Probe _(21)_
+[cols="1,2,2"]
+|===
+a| `HW` a| `W6` | Ergebnis
+
+| - a| Erfolgsgrad | gelingt automatisch
+3+| magische Gaben oder Gegenstände; kostet 1 Hoffungspunkt
+|===
+
+.Schattenprobe (137)
+|===
+2+| je nach Situation | Ergebnis
+
+| Tapferkeit gegen Mut-SG | Weisheit gegen Verstand-SG a| neue Schattenpunkte -1 und -1 je `(T)`
+|===
+
+.Kampfproben (93ff)
+[cols="1,5"]
+|===
+h| Angriff | Kampffertigkeit gg. Kraft-SG + Parade des Gegners
+h| Parade | Kampffertigkeit des Gegners gg. Parade-SG (inkl. Schild) des Helden
+h| Erfolg
+a|* Ausdauer - Waffenschaden (-> ggf. Erschöpfung, 0 = bewußtlos)
+* `(T)` = weitere Effekte: Abwehren, Durchstoßen, Schildstoss, schwerer Treffer
+* `HW`: 10+ = durchbohrender Treffer -> Verletzungsprobe
+h| Verletzungsprobe | Rüstschutz gegen Verletzungswert der Waffe -> Wunde
+|===
+
+.langfristige Aufgaben (131)
+[cols="1,2,2"]
+|===
+h|Widerstand a|Anzahl benötigter Erfolge (inkl. zusätzliche Erfolge durch `(T)`-Symbole) | einfach = 3, mühselig = 6, entmutigend = 9
+h|Zeitbegrenzung | Anzahl erlaubter Proben | Widerstand (wenig Zeit), Widerstand +1 (genug Zeit), Widerstand +2 (reichlich Zeit)
+|===

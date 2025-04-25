@@ -1,0 +1,14 @@
+
+:table-caption: Tabelle
+
+# Der Eine Ring 2e - Regelwiki
+
+(C) 2025 - Fr3d der Hobbit
+
+include::DerEineRing2e-Charakterbogen-Legende.adoc[]
+
+include::DerEineRing2e-Lebensstandard.adoc[]
+
+include::DerEineRine2e-Proben.adoc[]
+
+include::DerEineRing2e-Ablaeufe.adoc[]
