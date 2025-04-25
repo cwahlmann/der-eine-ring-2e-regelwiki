@@ -1,0 +1,9 @@
+# Der Eine Ring 2e Regelwiki
+
+(c) 2025 Fr3d der Hobbit
+
+Eine Spielhilfe zur Truant-Version des Rollenspiels "Der Eine Ring" mit einer Legende zum Charakterbogen und einer Übersicht der wichtigsten Regeln
+
+https://github.com/cwahlmann/der-eine-ring-2e-regelwiki/blob/main/doc/DerEineRing2e-Regelwiki.adoc[DerEineRing2e-Regelwiki.adoc]
+
+https://github.com/cwahlmann/der-eine-ring-2e-regelwiki/blob/main/doc/DerEineRing2e-Regelwiki.pdf[DerEineRing2e-Regelwiki.pdf]
